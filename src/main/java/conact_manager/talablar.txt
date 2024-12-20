@@ -1,0 +1,23 @@
+*** ContactManger Project ***
+
+dto.Contact (name,surname,phone(unique))
+
+Project konsoldan boshqariladigan bo'lishi kerak.
+Yangi dto.Contact qo'shilgandan keyin konsolga xabar ko'rsating. Phone raqam takrorlanmas bo'lishi kerak.
+dto.Contact-ni o'chirganizdan keyin konsolga xabar ko'rsating.
+Agar dto.Contact topilasa  'Mazgi Kontact yo'qku' habar chiqarsin.
+
+    ** Menu **
+ 1. Add Contact
+        Enter name:
+        Enter surname:
+        Enter phone:
+ 2. Contact List
+        name, surname, phone
+ 3. Delete Contact
+        Enter phone:
+ 4. Search Contact By (name,surname,phone)
+        Enter query:
+ 0. Exit
+
+Enter Action:
